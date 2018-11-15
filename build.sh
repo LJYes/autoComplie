@@ -1,5 +1,4 @@
 #! bin/bash
-#我的简书:http://www.jianshu.com/p/e9b3fba1bf56
 #Use:命令行进入项目根目录直接执行 sh build.sh即可在桌面生成ipa安装包
 
 #注意:使用本脚本上传到fir.im需要满足以下环境:一. ruby版本>1.9.3 (查看当前ruby版本 ruby -v) 二. ruby安装完毕,安装fir.im命令行插件 (gem install fir-cli)
